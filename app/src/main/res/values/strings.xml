@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopularMov</string>
+    <string name="search_title">Search Movie</string>
+    <string name="search_hint">Enter movie name</string>
+    <string name="no_result">No Result</string>
+    <string name="page_desc">Most Popular Movies</string>
+</resources>
